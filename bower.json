@@ -1,6 +1,6 @@
 {
   "name": "jquery-zee-slider",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "authors": [
     "Julien Cabanès <jcabanes@zeeagency.com>"
   ],
@@ -15,6 +15,7 @@
   ],
   "license": "MIT",
   "ignore": [
+    ".gitignore",
     "**/.*",
     "node_modules",
     "bower_components",
