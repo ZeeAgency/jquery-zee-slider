@@ -1,0 +1,24 @@
+{
+  "name": "jquery-zee-slider",
+  "version": "1.0.0",
+  "authors": [
+    "Julien Cabanès <jcabanes@zeeagency.com>"
+  ],
+  "description": "Zee Agency's jQuery slideshow plugin",
+  "main": "jquery.zee-slide.js",
+  "keywords": [
+    "jquery",
+    "slideshow",
+    "slider",
+    "slide",
+    "zee"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
